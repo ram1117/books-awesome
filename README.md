@@ -35,9 +35,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Film Festival 2022 <a name="about-project"></a>
+# 📖 Awesome Books <a name="about-project"></a>
 
-**Film Festival 2022** is a Capstone project for Microverse Module 1 - Basic HTML/CSS/Javascript. The project is a website for a Film Festival
+**Awesome Books** is a javascript project in Microverse Module 2 Week 1. 
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -55,9 +55,9 @@
 ### Key Features <a name="key-features"></a>
 
 
-- **Mobile and desktop versions of Main page**
-- **Mobile and desktop versions of About page**
-- **Responsive webpages developed with Responsive Web Design principle**
+- **Web page is a SPA, developed using javascript**
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -67,7 +67,7 @@
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://ram1117.github.io/filmfestival/)
+- [Live Demo Link](https://ram1117.github.io/books-awesome/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -89,7 +89,7 @@ git - git should be installed in local machine. git is necessary for cloning thi
 Clone this repository to your desired folder:
 
 ```
- git clone https://github.com/ram1117/capstone-project-1-filmfestival.git
+ git clone https://github.com/ram1117/books-awesome.git
 ```
 
 ### Install
@@ -130,7 +130,6 @@ You can deploy the project on Github pages or any other web hosting service of y
 
 ## 🔭 Future Features <a name="future-features"></a>
 
--  **Add mobile and desktop versions of schedule page**
 -  **Add transitions and animations**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -141,7 +140,7 @@ You can deploy the project on Github pages or any other web hosting service of y
 
 Contributions, issues, and feature requests are welcome! Please feel free to create issues for any project improvement or bug fix.
 
-Feel free to check the [issues page](https://github.com/ram1117/capstone-project-1-filmfestival/issues).
+Feel free to check the [issues page](https://github.com/ram1117/books-awesome/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -150,7 +149,7 @@ Feel free to check the [issues page](https://github.com/ram1117/capstone-project
 ## ⭐️ Show your support <a name="support"></a>
 
 If you like this project, please provide a STAR in 
-[Github project repository](https://github.com/ram1117/capstone-project-1-filmfestival)
+[Github project repository](https://github.com/ram1117/books-awesome)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -159,9 +158,6 @@ If you like this project, please provide a STAR in
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank [Cindy Shin](https://www.behance.net/adagio07) for the webpage design template. The deign can be found on Behance in the below link.
-
-[Design Template](https://www.behance.net/adagio07)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -177,7 +173,7 @@ I would like to thank [Cindy Shin](https://www.behance.net/adagio07) for the web
 
 - **Is there a live demo version of the project?**
 
-  - A live demo version is hosted on [Github pages](https://ram1117.github.io/filmfestival/). The project will be deployed after changes are done.
+  - A live demo version is hosted on [Github pages](https://ram1117.github.io/books-awesome/). The project will be re-deployed whenever changes are done.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
